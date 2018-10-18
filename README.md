@@ -71,4 +71,10 @@ Get:8 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libperl5.22 amd
 
 
 
+##INSTALL PLUGIN
+/opt/logstash/bin/logstash-plugin install logstash-input-nagioscheck
+
+
+
+
 
